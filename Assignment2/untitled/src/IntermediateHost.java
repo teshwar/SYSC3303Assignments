@@ -1,7 +1,7 @@
 /**
  * Represents IntermediateClass class between client and server
  *
- * @author Teshwar Tarachand 101167556
+ * @author Teshwar Tarachand 
  * @version 1.0
  */
 import java.io.*;
