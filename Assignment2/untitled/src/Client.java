@@ -2,7 +2,7 @@
  * Represents Client class to send and receive datagram from
  * intermediate host
  *
- * @author Teshwar Tarachand 101167556
+ * @author Teshwar Tarachand
  * @version 1.0
  */
 import java.io.*;
