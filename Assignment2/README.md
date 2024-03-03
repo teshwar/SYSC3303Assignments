@@ -15,5 +15,5 @@
 	2.Server
 	3.Client
 	
-## In UML Diagram Folder:
+## In Diagram Folder:
 	Find a Seuqence diagram and a Class diagram.
