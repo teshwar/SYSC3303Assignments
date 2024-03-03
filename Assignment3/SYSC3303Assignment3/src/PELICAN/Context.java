@@ -2,6 +2,13 @@ package PELICAN;
 
 import State.State;
 import State.Operational;
+/**
+ * Overall system
+ *
+ * @author Teshwar Tarachand
+ * @version 1.0
+ */
+
 
 public class Context implements Runnable{
 
